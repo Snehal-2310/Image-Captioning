@@ -13,6 +13,7 @@ We must first understand how important image captioning is to real world scenari
 
 ## I/O
 <img src="https://github.com/Snehal-2310/Image-Captioning/blob/main/uploads/Capture.JPG" alt="Model without optimization" width=450 height=350/>
+<img src="https://github.com/Snehal-2310/Image-Captioning/blob/main/uploads/Capture1.JPG" alt="Model without optimization" width=450 height=350/>
 
 ## Directory Tree 
 

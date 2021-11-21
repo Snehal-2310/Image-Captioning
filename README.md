@@ -12,7 +12,7 @@ We must first understand how important image captioning is to real world scenari
 
 
 ## I/O
-<img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/First%20plot.PNG" alt="Model without optimization" width=450 height=350/>
+<img src="https://github.com/Snehal-2310/Image-Captioning/blob/main/uploads/Capture.JPG" alt="Model without optimization" width=450 height=350/>
 
 ## Directory Tree 
 
